@@ -1,6 +1,6 @@
 ## Password
 
-Jelszó tároló, konzolos változat. s
+Jelszó tároló, konzolos változat. 
 
 2023-02-27
 
